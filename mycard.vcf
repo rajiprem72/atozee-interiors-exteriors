@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Suresh Manikandan
 ORG:A TO ZEE INTERIOR AND EXTERIORS
-TITLE:proprietor
-TEL:+91-9003074232
-EMAIL:atozeeintext@gmail.com
+TITLE:Proprietor
+TEL;TYPE=CELL:+91-9003074232
+EMAIL;TYPE=INTERNET:atozeeintext@gmail.com
 URL:https://atozeeinterior.net/
-URL:https://rajiprem72.github.io/atozee-interiors-exteriors/
-ADR;TYPE=work:;;No-16, 105, 12th St, Ambattur Industrial Estate;Chennai;Tamil Nadu;600058;India
+URL;TYPE=OTHER:https://rajiprem72.github.io/atozee-interiors-exteriors/
+ADR;TYPE=WORK:;;No-16, 105, 12th St, Ambattur Industrial Estate;Chennai;Tamil Nadu;600058;India
 PHOTO;TYPE=JPEG;VALUE=URI:https://rajiprem72.github.io/atozee-interiors-exteriors/suresh.jpg
 END:VCARD
